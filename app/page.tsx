@@ -13,7 +13,7 @@ const HomePage = () => {
   const postMetadata = getPostMetadata()
   const postPreview = postMetadata.map(slug =>
     <div>
-      <Link href={'/'}>
+      <Link href={`/posts/${slug}`}>
         <h1>{slug}</h1>
       </Link>
     </div>
