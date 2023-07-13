@@ -1,6 +1,7 @@
 import './globals.css'
 import type { Metadata } from 'next'
 import Header from '@/components/Header'
+import Footer from '@/components/Footer'
 
 export const metadata: Metadata = {
   title: 'AI-Boosted Entrepreneur',
@@ -19,6 +20,7 @@ export default function RootLayout({
         <div>
           <Header />
           {children}
+          <Footer />
         </div>
       </body>
     </html>
