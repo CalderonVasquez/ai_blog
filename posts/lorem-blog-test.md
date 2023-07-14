@@ -25,7 +25,7 @@ There are a few reasons why people use Lorem ipsum. First, it is a good way to f
 
 ## Images
 
-[![Lorem Ipsum Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Lorem_ipsum.png/320px-Lorem_ipsum.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Lorem_ipsum.png/320px-Lorem_ipsum.png)
+![images/black_lorem.jpeg](https://slate.com/news-and-politics/2023/01/lorem-ipsum-history-origins.html)
 
 ## Conclusion
 
