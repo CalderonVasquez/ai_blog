@@ -1,8 +1,8 @@
 ---
 title: "The Importance of Lorem Ipsum"
 subtitle: "A Placeholder Text for All Occasions"
-date: 2023-07-11
-image: lorem-ipsum.png
+date: "2023-07-11"
+image: "images/black_lorem.jpeg"
 ---
 
 # Lorem Ipsum Blog Post
@@ -25,7 +25,9 @@ There are a few reasons why people use Lorem ipsum. First, it is a good way to f
 
 ## Images
 
-![images/black_lorem.jpeg](https://slate.com/news-and-politics/2023/01/lorem-ipsum-history-origins.html)
+![images/black_lorem.jpeg](https://compote.slate.com/images/5294e6d0-53ed-4a4a-a350-7eaeab72ac93.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=724)
+
+<!-- ![images/pink_lorem.png](https://assets.justinmind.com/wp-content/webp-express/webp-images/uploads/2018/11/Lorem-Ipsum-alternatives.png.webp) -->
 
 ## Conclusion
 

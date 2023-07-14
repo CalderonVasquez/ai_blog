@@ -1,21 +1,37 @@
 import Link from "next/link"
+import matter from 'gray-matter'
 import fs from 'fs'
+import PostMetadata from '@/components/PostMetadata'
 
-const getPostMetadata = () => {
+const getPostMetadata = (): PostMetadata[] => {
   const folder = 'posts/'
   const files = fs.readdirSync(folder)
   const markdownPosts = files.filter(file => file.endsWith('.md'))
-  const slugs = markdownPosts.map(file => file.replace('.md', ""))
-  return slugs
+
+  const posts = markdownPosts.map(fileName => {
+    const fileContent = fs.readFileSync(`posts/${fileName}`, 'utf-8')
+    const matterResult = matter(fileContent)
+    return {
+      image: matterResult.data.image,
+      title: matterResult.data.title,
+      subtitle: matterResult.data.subtitle,
+      date: matterResult.data.date,
+      slug: fileName.replace('.md', "")
+    }
+  })
+    return posts
 }
 
 const HomePage = () => {
   const postMetadata = getPostMetadata()
-  const postPreview = postMetadata.map(slug =>
+  const postPreview = postMetadata.map(post =>
     <div>
-      <Link href={`/posts/${slug}`}>
-        <h1>{slug}</h1>
+      <p>{post.date}</p>
+      <img src={post.image} alt="lorem ipsum"></img>
+      <Link href={`/posts/${post.slug}`}>
+        <h2>{post.title}</h2>
       </Link>
+      <p>{post.subtitle}</p>
     </div>
     )
 
@@ -27,3 +43,5 @@ const HomePage = () => {
 }
 
 export default HomePage
+
+
