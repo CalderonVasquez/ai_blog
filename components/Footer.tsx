@@ -1,17 +1,15 @@
-
-
 const Footer: React.FC = () => {
   return (
     <footer>
-        <div>
+      <div className="border-t border-slate-400 mt-12 py-6 text-center text-slate-400">
         <br></br>
         <h2>AI-Boosted Entrepreneur</h2>
         <p>Copyright © 2023 AI-Boosted Entrepreneur</p>
-      </div>
-      <div>
         <form>
-          <input type="email" placeholder="Enter your email" />
-          <button type="submit">Subscribe</button>
+          <input type="email" placeholder="Enter your email" className="w-64 py-2 px-4" />
+          <button type="submit" className="bg-gradient-to-br from-slate-900 via-slate-800 to-slate-700 text-white font-bold py-2 px-3 rounded-md">
+            Subscribe
+          </button>
         </form>
       </div>
     </footer>
