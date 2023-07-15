@@ -14,14 +14,14 @@ const Header: React.FC = () => {
               alt="logo"
             />
           </div>
-          <div className="text-slate-300 space-x-4 underline-hover">
-            <Link href="/" passHref>Home</Link>
-            <Link href="/about" passHref>About</Link>
-            <Link href="/contact" passHref>Contact</Link>
+          <div className="text-slate-300 space-x-4">
+            <Link className="hover:underline" href="/" passHref>Home</Link>
+            <Link className="hover:underline" href="/about" passHref>About</Link>
+            <Link className="hover:underline" href="/contact" passHref>Contact</Link>
           </div>
         </div>
         <h1 className="text-2xl text-white font-bold mt-4">AI-Boosted Entrepreneur</h1>
-        <p className="text-slate-300 text-center mb-8">We educate small businesses on all aspects of Artificial Intelligence</p>
+        <p className="text-slate-300 text-center mb-10">We educate small businesses on all aspects of Artificial Intelligence</p>
       </div>
     </header>
   );
