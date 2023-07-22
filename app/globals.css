@@ -3,3 +3,10 @@
 @tailwind utilities;
 
 
+.text-blue-600 {
+  color: #3b82f6;
+}
+
+.text-blue-600:hover {
+  text-decoration: underline;
+}

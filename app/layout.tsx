@@ -2,6 +2,7 @@ import './globals.css'
 import type { Metadata } from 'next'
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
+import BackToHomeButton from '@/components/BackToHomeButton';
 
 
 export const metadata: Metadata = {
@@ -21,6 +22,7 @@ export default function RootLayout({
         <div className="mx-auto  max-w-2xl px-8">
           <Header />
           {children}
+          <BackToHomeButton />
           <Footer />
         </div>
       </body>
