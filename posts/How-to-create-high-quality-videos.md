@@ -5,13 +5,14 @@ date: "2023-07-18"
 image: "images/pictory.png"
 ---
 
-[![pictory](https://d2gdx5nv84sdx2.cloudfront.net/uploads/k5cvved3/marketing_asset/banner/10221/engage2_1104___736px___3_.png)](https://pictory.ai?ref=jqqbg)
 
 If you’re a small business, and I mean **small**—one to two employees small—then you need all the help you can get from AI.
 
 ## The Importance of AI for Small Businesses
 
 As a one-person band or business owner, it can be hard to compete with larger competitors who have access to more employees, AI applications, and, most importantly, larger budgets for online marketing. Let's face it: online and social media marketing are the holy grail for brand awareness, growth, and profits. The more people you reach, the more all these hugely important factors expand.
+
+<a href="https://pictory.ai?ref=jqqbg" target="_blank" style="outline:none;border:none;"><img src="https://d2gdx5nv84sdx2.cloudfront.net/uploads/k5cvved3/marketing_asset/banner/10221/engage2_1104___736px___3_.png" alt="pictory" border="0"/></a>
 
 ## Enter Picktory.ai: The AI Video Editing Tool for Small Businesses
 
@@ -43,14 +44,15 @@ Do you have a wealth of blog posts or articles that you'd like to repurpose into
 
 Picktory.ai also offers a tremendous affiliate program, allowing you to earn money while using the app. By sharing your affiliate link with others, you can generate income from referrals. It's a win-win situation: you benefit from using Picktory.ai, and you have the potential to earn additional revenue by spreading the word about this powerful AI video editing tool.
 
-## Try Picktory.ai Today!
+## Try Picktory.ai Today
 
-Are you ready to take your small business's video content to the next level? You can try Picktory.ai for free and create three videos using my referral link: [https://pictory.ai?ref=jqqbg](https://pictory.ai?ref=jqqbg). If you decide to subscribe, you can even get a 20% discount using my referral link.
+Are you ready to take your small business's video content to the next level? You can try Picktory.ai for free and create three videos using my [referral link](https://pictory.ai?ref=jqqbg). If you decide to subscribe, you can even get a 20% discount using my referral link.
 
 ## Conclusion
 
 In the era of AI, small businesses have an opportunity to level the playing field and compete with larger competitors. Picktory.ai is a game-changer for small businesses seeking to enhance their online presence through engaging video content. With its powerful features, user-friendly interface, and time-saving capabilities, Picktory.ai empowers small businesses to create professional videos that captivate audiences and drive brand growth.
 
-To learn more about Picktory.ai and stay up-to-date with the latest tips and insights, I highly recommend subscribing to the [Picktory YouTube channel](https://www.youtube.com/embed/heHnYt6XKTk). You can find valuable information and watch their informative video.
+To learn more about Picktory.ai and stay up-to-date with the latest tips and insights, I highly recommend subscribing to the [Picktory YouTube channel](https://www.youtube.com/embed/heHnYt6XKTk). You can find valuable information and watch their informative videos.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/heHnYt6XKTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Remember, your small business can thrive in the age of AI video editing, and Picktory.ai is here to help you succeed!
