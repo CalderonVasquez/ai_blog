@@ -41,8 +41,6 @@ const AboutPage = () => {
       <h2 className="text-xl text-slate-700 font-bold mb-2">Call to action:</h2>
       <ul className="list-disc pl-4 mb-4">
         <li>Subscribe to my blog to get new articles delivered to your inbox every week.</li>
-        <li>Follow me on social media to stay up-to-date on the latest AI trends.</li>
-        <li>Leave a comment below to let me know what you think of my blog.</li>
       </ul>
 
       <p className="mb-4">
