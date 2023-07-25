@@ -17,7 +17,6 @@ const Header: React.FC = () => {
           <div className="text-slate-300 space-x-4">
             <Link className="hover:underline" href="/" passHref>Home</Link>
             <Link className="hover:underline" href="/about" passHref>About</Link>
-            <Link className="hover:underline" href="/contact" passHref>Contact</Link>
           </div>
         </div>
         <h1 className="text-2xl text-white font-bold mt-4">AI-Boosted Entrepreneur</h1>
