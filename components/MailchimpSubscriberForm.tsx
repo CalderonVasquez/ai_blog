@@ -8,13 +8,13 @@ const MailchimpSubscribeForm: React.FC = () => {
         rel="stylesheet"
         type="text/css"
       />
-      <style
-        dangerouslySetInnerHTML={{
-          __html: `#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width: 600px;}
-              /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-                 We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */`,
-        }}
-      />
+      <style>
+        {`
+        #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width: 100%; padding: 16px;}
+        /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+           We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+        `}
+      </style>
       <div id="mc_embed_signup">
         <form
           action="https://gmail.us20.list-manage.com/subscribe/post?u=1f1c3d69480d3630dc1580d9c&amp;id=e94fa6785a&amp;f_id=009f59e6f0"
@@ -69,13 +69,15 @@ const MailchimpSubscribeForm: React.FC = () => {
                   type="submit"
                   name="subscribe"
                   id="mc-embedded-subscribe"
-                  className="button bg-slate-600 text-white rounded hover:bg-slate-700"
+                  className="button bg-slate-600 text-white rounded hover:bg-slate-700 w-full"
                   value="Subscribe"
                 />
-                <p className="brandingLogo" style={{ margin: '0px auto' }}>
+                <p className="brandingLogo text-center mt-4">
                   <a
                     href="http://eepurl.com/hSyqi9"
                     title="Mailchimp - email marketing made easy and fun"
+                    target="_blank" // Add target="_blank" to open the link in a new tab
+                    rel="noopener noreferrer" // For security and performance reasons
                   >
                     <img
                       src="https://eep.io/mc-cdn-images/template_images/branding_logo_text_dark_dtp.svg"

@@ -15,11 +15,11 @@ const Header: React.FC = () => {
             />
           </div>
           <div className="text-slate-300 space-x-4">
-            <Link className="hover:underline" href="/" passHref>Home</Link>
-            <Link className="hover:underline" href="/about" passHref>About</Link>
+            <Link href="/" className="hover:underline">Home</Link>
+            <Link href="/about" className="hover:underline">About</Link>
           </div>
         </div>
-        <h1 className="text-2xl text-white font-bold mt-4">AI-Boosted Entrepreneur</h1>
+        <h1 className="text-xl md:text-2xl text-white font-bold mt-4">AI-Boosted Entrepreneur</h1>
         <p className="text-slate-300 text-center mb-10">We educate small businesses on all aspects of Artificial Intelligence</p>
       </div>
     </header>
