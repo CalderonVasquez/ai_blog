@@ -53,7 +53,7 @@ Are you ready to take your small business's video content to the next level? You
 In the era of AI, small businesses have an opportunity to level the playing field and compete with larger competitors. Picktory.ai is a game-changer for small businesses seeking to enhance their online presence through engaging video content. With its powerful features, user-friendly interface, and time-saving capabilities, Picktory.ai empowers small businesses to create professional videos that captivate audiences and drive brand growth.
 
 To learn more about Picktory.ai and stay up-to-date with the latest tips and insights, I highly recommend subscribing to the [Picktory YouTube channel](https://www.youtube.com/embed/heHnYt6XKTk). You can find valuable information and watch their informative videos.
-<div class="aspect-w-16 aspect-h-9">
+<div className="aspect-w-16 aspect-h-9">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/heHnYt6XKTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
