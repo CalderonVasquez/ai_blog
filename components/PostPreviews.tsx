@@ -2,7 +2,7 @@ import Link from 'next/link'
 
 const PostPreviews: React.FC = (props: any) => {
     return (
-        <div className="border border-slate-300 p-4 rounded-md shadow-sm
+        <div className="border border-slate-300 p-4 rounded-md shadow-md
           bg-white">
           <p className="font-bold text-xs text-slate-400">{props.date}</p>
           <img src={props.image} alt="lorem ipsum"></img>
