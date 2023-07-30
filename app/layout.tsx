@@ -19,7 +19,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
-        <div className="mx-auto  max-w-2xl px-8">
+        <div className="mx-auto  max-w-2xl px-8 bg-slate-100">
           <Header />
           {children}
           <BackToHomeButton />
