@@ -2,14 +2,14 @@
 title: The Benefits of Using an AI Email Generator for Small Businesses
 subtitle: What is GetResponse and How to Use It?
 date: "2023-08-07"
-image: <a href="https://griap.link/resources/hit/1467/QfrfcFYXrW"><img src="https://griap.link/resources/view/1467/QfrfcFYXrW" alt="Get leads. Get sales. Get growing."/></a>
+image: "images/getresp.png.gif"
 ---
 
 # The Benefits of Using an AI Email Generator for Small Businesses
 
 In today's fast-paced business world, small businesses are constantly seeking ways to grow, manage their time efficiently, enhance brand exposure, and provide top-notch customer service. An incredibly effective tool that can help achieve these goals is an AI email generator. In this blog post, we'll delve into the transformative impact of utilizing an AI email generator, such as [GetResponse](https://www.getresponse.com?a=QfrfcFYXrW&c=aiboosted), on small businesses. It empowers them to connect with customers, streamline marketing endeavors, and supercharge sales.
 
-[<a href="https://griap.link/resources/hit/1467/QfrfcFYXrW"><img src="https://griap.link/resources/view/1467/QfrfcFYXrW" alt="Get leads. Get sales. Get growing."/></a>]
+<a href="https://griap.link/resources/hit/1467/QfrfcFYXrW"><img src="https://griap.link/resources/view/1467/QfrfcFYXrW" alt="Get leads. Get sales. Get growing."/></a>
 
 ## What is GetResponse and How to Use It?
 
